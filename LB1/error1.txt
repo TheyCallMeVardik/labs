@@ -1,2 +1,0 @@
-
-Error: Name '3fkjfadf' does not start with an uppercase letter.
